@@ -4,3 +4,4 @@ version=${versionName} (${versionCode})
 versionCode=${versionCode}
 author=${authorList}
 description=Another, but detection enhanced, implementation of Xposed Framework. Supports Android 8.1 ~ 16.
+banner=https://raw.githubusercontent.com/Mesazane/ReLSPosed/refs/heads/master/banner.jpg
